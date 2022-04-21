@@ -1,0 +1,11 @@
+body  {
+    background-size: auto;
+    background-image: url("ba.jfif");
+    background-color: #fffdfd;
+    color: #f0c4e5;
+    font-size: 22px;
+}
+label
+{
+    margin-right: 1ch;
+}
